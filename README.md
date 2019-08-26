@@ -26,5 +26,6 @@
     [<img src="http://demo.hupp.in/hupp-files/ecom2.png" width="270" height="480" alt="Brand-first shopping design" align="left">](http://demo.hupp.in/hupp-files/ecom2.png)
     [<img src="http://demo.hupp.in/hupp-files/ecom3.png" width="270" height="480" alt="Brand-first shopping design" align="left">](http://demo.hupp.in/hupp-files/ecom3.png)
 
+Video Demo : https://youtu.be/15-S9ob0OgQ
 
 created by : hello@hupp.in
